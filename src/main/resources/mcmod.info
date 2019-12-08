@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mctouchbar",
+  "name": "MCTouchBar",
+  "description": "Proof of Concept of using the MacBook Pro's TouchBar in Minecraft",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Maxmad68"],
+  "credits": "JTouchBar (from https://github.com/Thizzer/jtouchbar)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
