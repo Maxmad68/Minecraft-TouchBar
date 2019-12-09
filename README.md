@@ -16,13 +16,13 @@ Other versions will come soon, when I'll have more time.
 # Downloading
 To use this mod, you'll need Forge (https://files.minecraftforge.net).
 You can download the mod in the Release section (<a href="https://github.com/Maxmad68/Minecraft-TouchBar/releases/tag/1.0.0">Here</a>).
-Then, copy the .jar file into you mods folder. To do so:
-<b> If you are on a Mac:</b>
+Then, copy the .jar file into you mods folder. To do so:<br>
+<b> If you are on a Mac:</b><br>
   - Open the Finder
   - Go to the "Go" menu, then "Go to folder" (or press ⇧⌘G)
   - Type <code>~/Library/Application Support/minecraft/mods</code>
   - Copy the .jar here<br><br>
-<b> If you are on Windows:</b>
+<b> If you are on Windows:</b><br>
 "Sincere condolences"
 
 # User manual / How it works
