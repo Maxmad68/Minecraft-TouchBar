@@ -22,6 +22,7 @@ Then, copy the .jar file into you mods folder. To do so:<br>
   - Go to the "Go" menu, then "Go to folder" (or press ⇧⌘G)
   - Type <code>~/Library/Application Support/minecraft/mods</code>
   - Copy the .jar here<br><br>
+  
 <b> If you are on Windows:</b><br>
 "Sincere condolences"
 
