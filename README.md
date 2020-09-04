@@ -13,6 +13,7 @@ Other versions will come soon, when I'll have more time.
 <img src="http://madrau.fr/MCTouchBar-Github/mc2.png" height=512><br>
 <img src="http://madrau.fr/MCTouchBar-Github/touchbar2.png">
 
+
 # Downloading
 To use this mod, you'll need Forge (https://files.minecraftforge.net).
 You can download the mod in the Release section (<a href="https://github.com/Maxmad68/Minecraft-TouchBar/releases/tag/1.0.0">Here</a>).
@@ -24,9 +25,9 @@ Then, copy the .jar file into you mods folder. To do so:<br>
   - Copy the .jar here<br><br>
   
 <b> If you are on Windows:</b><br>
-"Sincere condolences"
+  - Buy a Mac
 
-# User manual / How it works
+# User guide / How it works
 If you want to adapt the mod to fit all your needs, you can do so.
 Basically, you just need to know how Forge modding works, and to use the JTouchBar library.
 Some useful functions are already implemented.
